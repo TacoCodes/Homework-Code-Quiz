@@ -23,5 +23,4 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-screenshot of application 
-![Alt text](assets/images/screenshot.png)
+
